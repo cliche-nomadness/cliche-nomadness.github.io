@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "Hello 2026"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2026-01-21 14:44
+author:     "yayaLe"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - Blog
+---
+
+> “大连旅游前夕，我写的第一篇博客. ”
+
+
+呀呀乐 的 Blog 就这么开通了。
